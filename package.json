@@ -1,0 +1,24 @@
+{
+  "name": "js-safe-destructure",
+  "version": "1.0.0",
+  "description": "tiny util for safe destructure of js objects",
+  "main": "src/index.js",
+  "scripts": {
+    "build:npm": "babel src --out-dir lib"
+  },
+  "author": "Veeresh",
+  "license": "MIT",
+  "keywords": [
+    "js object safe destructure",
+    "Array safe destructure",
+    "javascript safe destructure",
+    "objest safe property read",
+    "safe destructure",
+    "safe js",
+    "safe javascript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kneteviresh/react-sliding-sidemenu"
+  }
+}
